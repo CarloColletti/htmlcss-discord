@@ -162,26 +162,40 @@ main>section>.container {
 	border: 2px dashed black; */
 }
 
-.main-col,.side-col h2 {
+.main-col,.side-col,.container h2 {
 	font-size: 3rem;
 	font-weight: bold;
 	padding: 15px;
 	
 }
 
-.main-col,.side-col p{
+.main-col,.side-col,.container p{
 	font-size: 20px;
 	padding: 15px;
 	font-weight: bold;
 }
 
+
+/* container grande */
+.text-content{
+	padding: 35px;
+	text-align: center;
+}
+
+.bg-gray
+.container
+.content {
+	flex-direction: column;
+}
+
 .hilighted-content {
 	flex-grow: 1;
+	text-align: center;
 
 	/* debug */
-	min-height: 800px;
-	background-color: forestgreen;
-	border: 2px dashed black;
+	/* min-height: 800px; */
+	/* background-color: forestgreen;
+	border: 2px dashed black; */
 }
 
 /* FOOTER */
