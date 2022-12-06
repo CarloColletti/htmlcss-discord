@@ -46,6 +46,18 @@ a{
 	text-decoration: none;
 }
 
+/* bottone */
+.header-login button {
+	background-color: white;
+	border-style: none;
+	border-radius: 20px;
+	font-size: 20px;
+	text-align: center;
+	padding: 4px 10px;
+	color: black;
+	cursor: pointer;
+}
+
 /* JUMBOTRON */
 
 .jumbotron {
