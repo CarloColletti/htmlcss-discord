@@ -212,7 +212,7 @@ main>section>.container {
 	display: flex;
 	padding-bottom: 50px;
 	margin-bottom: 50px;
-	border-bottom: 2px solid purple;
+	border-bottom: 2px solid #48557e;
 	justify-content: space-between;
 	/* debug */
 	/* min-height: 500px; */
@@ -266,6 +266,9 @@ main>section>.container {
 .lingua{
 	display: flex;
 	flex-grow: 1;
+	align-items: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 
@@ -285,6 +288,17 @@ main>section>.container {
 
 
 	/* debug */
-	background-color: #ffb6c1;
-	border: 2px dashed black;
+	/* background-color: #ffb6c1;
+	border: 2px dashed black; */
+}
+
+.footer-bottom bottom{
+	background-color: #8ea1e1;
+	border-style: none;
+	border-radius: 20px;
+	font-size: 20px;
+	text-align: center;
+	padding: 4px 10px;
+	color: white;
+	cursor: pointer;
 }
