@@ -95,7 +95,7 @@ a{
 
 .jumbotron .content p {
 	font-size: 25px;
-	font-family: ;
+	
 }
 
 
@@ -159,6 +159,14 @@ main>section>.container {
 	/* debug */
 	background-color: pink;
 	border: 2px dashed black;
+}
+
+.main-col,.side-col h2 {
+	font-size: 3rem;
+}
+
+.main-col,.side-col p{
+	font-size: 20px;
 }
 
 .hilighted-content {
