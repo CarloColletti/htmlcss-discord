@@ -22,7 +22,6 @@
 
 	/* debug */
 	background-color: goldenrod;
-	border: 2px dashed black;
 }
 
 .header-links {
@@ -32,6 +31,11 @@
 
 .header-login {
 	text-align: right;
+}
+
+.header-logo{
+	background-image: url(../img/logo.svg);
+	background-size: cover;
 }
 
 /* JUMBOTRON */
