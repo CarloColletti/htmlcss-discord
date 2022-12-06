@@ -95,7 +95,6 @@ a{
 
 .jumbotron .content p {
 	font-size: 25px;
-	
 }
 
 
@@ -147,26 +146,33 @@ main>section>.container {
 
 .main-col {
 	flex-grow: 2;
+	text-align: center;
 
 	/* debug */
-	background-color: cornflowerblue;
-	border: 2px dashed black;
+	/* background-color: cornflowerblue;
+	border: 2px dashed black; */
 }
 
 .side-col {
 	flex-grow: 1;
+	width: 25%;
 
 	/* debug */
-	background-color: pink;
-	border: 2px dashed black;
+	/* background-color: pink;
+	border: 2px dashed black; */
 }
 
 .main-col,.side-col h2 {
 	font-size: 3rem;
+	font-weight: bold;
+	padding: 15px;
+	
 }
 
 .main-col,.side-col p{
 	font-size: 20px;
+	padding: 15px;
+	font-weight: bold;
 }
 
 .hilighted-content {
