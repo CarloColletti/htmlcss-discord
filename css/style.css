@@ -162,7 +162,7 @@ main>section>.container {
 	border: 2px dashed black; */
 }
 
-.main-col,.side-col,.container h2 {
+.main-col,.side-col, .container h2 {
 	font-size: 3rem;
 	font-weight: bold;
 	padding: 15px;
