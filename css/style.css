@@ -223,7 +223,7 @@ main>section>.container {
 
 	/* debug */
 	/*   */
-	border: 2px dashed black;
+	/* border: 2px dashed black; */
 }
 
 .footer-side-col {
@@ -232,7 +232,7 @@ main>section>.container {
 
 	/* debug */
 	/* background-color: #20b2aa; */
-	border: 2px dashed black;
+	/* border: 2px dashed black; */
 }
 
 .footer-col li{
